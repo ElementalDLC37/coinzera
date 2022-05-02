@@ -10,7 +10,10 @@ const GlobalStyle = createGlobalStyle`
 
 const theme = {
   colors: {
-    primary: '#0070f3',
+    primary: '#000000',
+    secondary: '#5800FF',
+    tertiary: '#E900FF',
+    quaternary: '#FFC600'
   },
 }
 
